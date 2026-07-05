@@ -8,7 +8,7 @@ The application fetches information from Wikipedia, translates it using the MyMe
 ---
 
 ## Website is live
-infoverse-ai-one.vercel.app
+https://infoverse-ai-one.vercel.app
 
 ---
 
